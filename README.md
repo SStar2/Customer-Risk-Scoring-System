@@ -16,6 +16,9 @@ Database Design:
   ● Schema validated in Lucidchart ER diagram
 
 
+![ER Diagram](diagrams/ER_diagram.pdf)
+
+
 Windows Forms (VB.NET) - Built 4 forms in Visual Studio:
   
   ● Customer Detail — displays individual customer information
