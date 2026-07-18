@@ -6,8 +6,11 @@ A FICO-style customer risk scoring system built to model how financial instituti
 
 Database Design:
 ● 8 normalized tables: Customer, Account, TransactionHistory, PaymentHistory, CreditUtilization, FeatureAggregate, RiskScore, RiskTier
+
 ● 20 rows of sample data per table
+
 ● Includes a view, a user-defined function, and a stored procedure
+
 ● Schema validated in Lucidchart ER diagram
 
 Windows Forms (VB.NET) - Built 4 forms in Visual Studio:
