@@ -7,26 +7,26 @@ A FICO-style customer risk scoring system built to model how financial instituti
 
 Database Design:
 
-    ● 8 normalized tables: Customer, Account, TransactionHistory, PaymentHistory, CreditUtilization, FeatureAggregate, RiskScore, RiskTier
-    
-    ● 20 rows of sample data per table
-    
-    ● Includes a view, a user-defined function, and a stored procedure
-    
-    ● Schema validated in Lucidchart ER diagram
+  ● 8 normalized tables: Customer, Account, TransactionHistory, PaymentHistory, CreditUtilization, FeatureAggregate, RiskScore, RiskTier
+  
+  ● 20 rows of sample data per table
+  
+  ● Includes a view, a user-defined function, and a stored procedure
+  
+  ● Schema validated in Lucidchart ER diagram
 
 
 Windows Forms (VB.NET) - Built 4 forms in Visual Studio:
-
-    ● Customer Detail — displays individual customer information
-    
-    ● Portfolio Grid — grid view of all customers and risk data
-    
-    ● Search by Tier — filters customers by assigned risk tier
-    
-    ● Customer Profile Tabs — tabbed view of full customer profile
-    
-    ● Startup Form — connects and launches all four forms
+  
+  ● Customer Detail — displays individual customer information
+  
+  ● Portfolio Grid — grid view of all customers and risk data
+  
+  ● Search by Tier — filters customers by assigned risk tier
+  
+  ● Customer Profile Tabs — tabbed view of full customer profile
+  
+  ● Startup Form — connects and launches all four forms
 
 
 Key Technical Challenges Solved:
