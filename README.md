@@ -16,7 +16,8 @@ Database Design:
   ● Schema validated in Lucidchart ER diagram
 
 
-![ER Diagram](diagrams/ER_diagram.pdf)
+<img width="425" height="464" alt="image" src="https://github.com/user-attachments/assets/dbddf3d3-7379-4dbc-829e-d38288859ecc" />
+
 
 
 Windows Forms (VB.NET) - Built 4 forms in Visual Studio:
