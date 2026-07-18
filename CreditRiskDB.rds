@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="CreditRiskDB">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=localhost;Initial Catalog=CreditRiskDB</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>81b01406-9541-4170-afe9-4cc983a07a41</DataSourceID>
+</RptDataSource>
